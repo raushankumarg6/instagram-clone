@@ -1,7 +1,7 @@
 # instagram-clone
 A website where we can share the content (like:image,videos, etc. ) &amp; do discussions on the specific post seamlessly....
 Live link: 
-<a src="https://instagram-clone-react-4781c.web.app/">instagram-clone</a>
+[Instagram-Clone](https://instagram-clone-react-4781c.web.app/)
 
 # Features🔥:
 1. User can signin/signout by his google account which will be authenticate by firebase. 
